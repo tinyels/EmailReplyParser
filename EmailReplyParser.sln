@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailReplyParser", "EmailReplyParser\EmailReplyParser.csproj", "{10E8F773-8890-4E81-8079-A2C6251409C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailReplyParser.Tests", "Tests\EmailReplyParser.Tests.csproj", "{EFDC7CEC-017C-4810-BAE3-F53AF0F1CE17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E8F773-8890-4E81-8079-A2C6251409C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E8F773-8890-4E81-8079-A2C6251409C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E8F773-8890-4E81-8079-A2C6251409C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E8F773-8890-4E81-8079-A2C6251409C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFDC7CEC-017C-4810-BAE3-F53AF0F1CE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDC7CEC-017C-4810-BAE3-F53AF0F1CE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDC7CEC-017C-4810-BAE3-F53AF0F1CE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDC7CEC-017C-4810-BAE3-F53AF0F1CE17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
